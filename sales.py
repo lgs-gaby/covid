@@ -6,13 +6,11 @@
 # In[2]:
 
 
-get_ipython().system('pip install dash_html_components')
 
 
 # In[3]:
 
 
-get_ipython().system('pip install dash_core_components')
 
 
 # In[4]:

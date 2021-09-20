@@ -1,1 +1,1 @@
-web: gunicorn sale:server
+web: gunicorn sales:server

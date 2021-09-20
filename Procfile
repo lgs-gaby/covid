@@ -1,1 +1,1 @@
-web: gunicorn sales:server
+web: gunicorn covid:server
